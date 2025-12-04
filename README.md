@@ -1,6 +1,10 @@
 # Virginia 2025 Statewide Elections: Precinct GeoPackage
 
-![Virginia 2025 statewide precinct results](Virginia%202025%20Data%20Preview.png)
+<p align="left">
+  <img src="VA%202025%20Data%20Preview.png"
+       alt="Virginia 2025 statewide precinct results"
+       width="300">
+</p>
 
 ## File and Layer
 
