@@ -5,6 +5,10 @@ Virginia 2025 Statewide Elections – Precinct GeoPackage
 File: VA_precincts_2025_statewide_standardized.gpkg
 Layer: precincts_2025
 
+Download
+--------
+https://github.com/election-archivist/va-2025-precinct-results/releases/download/v1.0.0/VA_precincts_2025_statewide_standardized.gpkg
+
 Overview
 --------
 This GeoPackage combines Virginia's 2025 **statewide** election results
